@@ -1,0 +1,42 @@
+nav{
+    background-color: transparent;
+    opacity: 0.7;
+}
+nav:hover{
+    opacity: 1;
+}
+
+button{
+    border-radius: 10px;
+}
+
+#infoPoint{
+    position: absolute;
+    top: 50%;
+    right: 20%;
+}
+
+#lounge{
+    position: absolute;
+    top: 60%;
+    right: 41%;
+}
+
+#event{
+    position: absolute;
+    top: 45%;
+    left: 21%;
+
+}
+
+#enter {
+    position: absolute;
+    top: 53%;
+    left: 42%;
+}
+
+/* 
+width: 40px;
+height: 40px;
+background-color: blue;
+*/
